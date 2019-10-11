@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri&display=swap');
+
 body {
-  font-family: arial;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 .container {
@@ -23,7 +25,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #8B1F41;
+  background-color: #4388FF;
   color: white;
 }
 
@@ -33,7 +35,7 @@ main {
 }
 
 nav {
-  background-color: #E87722;
+  background-color: #31B9E8;
   padding: 20px;
 
 }
@@ -45,7 +47,7 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color: #75787B;
+  background-color: #D559FF;
   color: white;
 }
 
@@ -58,7 +60,7 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #8B1F41;
+  background-color: #89C6CC;
   color: white;
 }
 
